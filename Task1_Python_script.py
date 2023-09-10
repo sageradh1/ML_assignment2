@@ -43,7 +43,7 @@ def clean(text):
 def collect_text(soup):
 	text = f'url: {url}\n\n'
 	para_text = soup.find_all('p')
-	print(f"paragraphs text = \n {para_text}") #This line appears to print the entire HTML source code. But I didn't want to remove it.
+	print(f"paragraphs text = \n {para_text}") 
 	for para in para_text:
 		text += f"{para.text}\n\n"
 	return text
