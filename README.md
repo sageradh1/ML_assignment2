@@ -1,4 +1,4 @@
 # ML_assignment2
 
-https://github.com/sageradh1/
-https://github.com/guneyselAli/
+repo: https://github.com/sageradh1/
+collaborator: https://github.com/guneyselAli/
